@@ -9,6 +9,7 @@
         <module name="junit-test" />
         <module name="mybatis-003-config" />
         <module name="mybatis-001-introduction" />
+        <module name="mybatis-004-web" />
         <module name="mybatis-002-crud" />
         <module name="mybatis-powernode" />
       </profile>
